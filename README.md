@@ -57,20 +57,7 @@ To access the custom dashboard for managers, please use the following credential
 - Email: manager@example.com
 - Password: managerpass1234
 
-## How to Contribute
 
-I welcome contributions to enhance and customize this project. If you would like to contribute, please follow these steps:
-
-1. Fork the repository on GitHub.
-2. Create a new branch with a descriptive name for your feature or bug fix.
-3. Make the necessary changes in your branch.
-4. Test your changes thoroughly.
-5. Commit your changes and push them to your forked repository.
-6. Submit a pull request, clearly describing the changes you have made.
-
-## License
-
-released under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
 Feel free to explore, contribute, and customize this according to your needs!
 
